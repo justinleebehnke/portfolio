@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://www.justinbehnke.com/"
+baseURL = "https://www.justinbehnke.netlify.com/"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
