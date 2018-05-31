@@ -10,7 +10,10 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
-#Get ready to researchi
+
+
+Get ready to research
+=====================
 So when you first start out trying to build an app on the Salesforce platform 
 you will find yourself being pulled in a lot of different directions. One 
 thing you need to determine right away is if you want to use the non-
@@ -35,9 +38,10 @@ I know it's going to be worth the trouble and hopefully soon I will be able to
 make a blog post about how I slew this dragon. 
 
 The basic outline I've got so far is as follows:
-1.Use Canvas to display your app inside of Salesforce
-2.Use Heroku Connect on the Heroku PaaS to get rapid data access and about a billion other sick features
-3.Somehow figure out how to dynamically map the DB Schema of your client base to your standardized schema
-4.Get super rich and retire
+
+1. Use Canvas to display your app inside of Salesforce
+* Use Heroku Connect on the Heroku PaaS to get rapid data access and about a billion other sick features
+* Somehow figure out how to dynamically map the DB Schema of your client base to your standardized schema
+* Get super rich and retire
 
 That's all I've got so far and that's after about 16 hours of research. We'll see how this develops
